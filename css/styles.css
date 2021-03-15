@@ -1,0 +1,139 @@
+/* own css */
+* {
+margin: 0;
+padding: 0;
+font-family: 'Raleway', sans-serif;
+color: #6A4422;
+}
+
+/* navbar */
+.navbar-light, footer {
+  background-color:  #AA7B3D;
+}
+
+.navbar-light .navbar-nav .nav-link, .navbar-light .navbar-nav .active > .nav-link {
+  color: white;
+}
+
+.nav-item:hover {
+  color: #6A4422;
+}
+/* header */
+
+.header-background {
+  background-color: #D9D8D7;
+  padding-top: 20px;
+}
+
+.header-text {
+  font-size: 80px;
+  margin: 0;
+  font-family: 'Satisfy', cursive;
+}
+
+/* description */
+.description {
+  padding: 20px;
+  background-color: #D9D8D7;
+}
+
+.description-body {
+  padding: 0px 50px 0px 20px;
+}
+/* cards */
+
+.subline {
+padding: 20px;
+text-align: center;
+}
+.coffee-decision {
+background-color:#CEB295;
+padding: 50px;
+}
+
+.card {
+  border: none;
+}
+
+/* order*/
+.order-color {
+    background-color: #D9D8D7;
+}
+
+.order-header {
+  background-color:#AA7B3D;
+  color: white;
+}
+
+.order-header h4 {
+  color: white;
+}
+
+
+/* footer */
+
+footer div div {
+  display: inline-block;
+}
+
+footer div div div {
+  display: inline-block;
+  width: 2rem;
+  height: 2rem;
+}
+
+footer div div img {
+  height: 100%;
+}
+
+#icon {
+  margin-left: 1.5rem;
+  margin-bottom: 0.5rem;
+  display: inline-block;
+}
+
+.icon {
+  margin-right: 1.2rem;
+}
+
+#Facebook {
+  margin-left: 0.8rem;
+}
+
+#impressumText {
+  display: flex;
+  margin-top: 1rem;
+  margin-left: 2rem;
+  margin-right: 1rem;
+  font-size: 0.7rem;
+}
+
+.btn {
+    background-color: #D9D8D7;
+}
+
+.footer-text a {
+  color:#ffffff;
+  text-decoration: none;
+}
+
+/* production */
+.production-color {
+  background-color:#CEB295;
+}
+
+.jumbotron {
+  border-radius: 0px;
+}
+
+.prodution-margin{
+  margin-top: 30px;
+}
+
+.carousel-center {
+  padding: 0px;
+}
+
+.production-color {
+  background-color:#CEB295;
+}
